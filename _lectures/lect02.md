@@ -61,6 +61,8 @@ Our focus will be Section 4, which is divided into 6 sections:
 | 4.4 | Why: Learning vs. User Needs | to learn something  | to address a user need |
 | 4.5 | How: Ad-Hoc vs. Professional | ad-hoc tools and practices |  professional tools and formal practices |
 | 4.6 | How Big: Small vs. Large Codebases | small programs | large complex systems |
+{:.table .table-sm .table-striped .table-bordered}
+
 
 You'll first assign one person from your team to each section; most teams have six people, so that's team member per section.
 
@@ -80,6 +82,8 @@ That member of the team should go to the repo for your team on GitHub.  Here are
 | [team-5pm-b-NOTES](https://github.com/ucsb-cs156-f20/team-5pm-b-NOTES) | [team-6pm-b-NOTES](https://github.com/ucsb-cs156-f20/team-6pm-b-NOTES) | [team-7pm-b-NOTES](https://github.com/ucsb-cs156-f20/team-7pm-b-NOTES)  |
 | [team-5pm-c-NOTES](https://github.com/ucsb-cs156-f20/team-5pm-c-NOTES) | [team-6pm-c-NOTES](https://github.com/ucsb-cs156-f20/team-6pm-c-NOTES) | [team-7pm-c-NOTES](https://github.com/ucsb-cs156-f20/team-7pm-c-NOTES)  |
 | [team-5pm-d-NOTES](https://github.com/ucsb-cs156-f20/team-5pm-d-NOTES) | [team-6pm-d-NOTES](https://github.com/ucsb-cs156-f20/team-6pm-d-NOTES) | [team-7pm-d-NOTES](https://github.com/ucsb-cs156-f20/team-7pm-d-NOTES)  |
+{:.table .table-sm .table-striped .table-bordered}
+
 
 
 

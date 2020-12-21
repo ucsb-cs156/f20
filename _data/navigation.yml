@@ -32,6 +32,36 @@ main_dropdown:
 
 offering_menus:
   -
+    term: W21
+    baseurl: /w21
+    items: 
+      - title: Hwk
+        url: /hwk/
+        description: "Homework Assignments"
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Lecture
+        url: /lectures/
+        description: "Lecture"
+      - title: Exam
+        url: /exam/
+        description: "Exams"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: OfcHrs
+        url: /info/office_hours/
+        description: "Office Hours"
+      - title: Projects
+        url: /info/projects/
+        description: "Projects"
+      - title: Github
+        dropdown:
+           - title: ucsb-cs156-w21
+             url: https://github.com/ucsb-cs156-w21
+          
+  -
     term: F20
     baseurl: /f20
     items: 

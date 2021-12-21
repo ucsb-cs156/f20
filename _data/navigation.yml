@@ -31,7 +31,7 @@ main_dropdown:
        url: /textbooks/       
 
 offering_menus:
- -
+  -
     term: W22
     baseurl: /w22
     items: 

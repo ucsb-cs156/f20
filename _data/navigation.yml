@@ -1,10 +1,10 @@
 # the production_url is the url that the parent/child site have in common
-#  e.g. production_url: https://ucsb-cs56.github.io
-#  for main site http://ucsb-cs56.github.io
+#  e.g. production_url: https://ucsb-cs156.github.io
+#  for main site http://ucsb-cs156.github.io
 #  and child sites
-#    https://ucsb-cs56.github.io/w18
-#    https://ucsb-cs56.github.io/f18
-#    https://ucsb-cs56.github.io/s19
+#    https://ucsb-cs156.github.io/f20
+#    https://ucsb-cs156.github.io/w21
+#    https://ucsb-cs156.github.io/s21
 #    etc.
 
 production_url: https://ucsb-cs156.github.io
@@ -31,6 +31,32 @@ main_dropdown:
        url: /textbooks/       
 
 offering_menus:
+  -
+    term: S22
+    baseurl: /s22
+    items: 
+      - title: Hwk
+        url: /hwk/
+        description: "Homework Assignments"
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Lecture
+        url: /lectures/
+        description: "Lecture"
+      - title: Software
+        url: /info/software/
+        description: "Software"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: Github
+        dropdown:
+           - title: ucsb-cs156-s22
+             url: https://github.com/ucsb-cs156-s22
+      - title: "More..."
+        url: /info/
+        description: "More Information"
   -
     term: W22
     baseurl: /w22
